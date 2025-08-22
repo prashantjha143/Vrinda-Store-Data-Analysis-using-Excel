@@ -65,3 +65,6 @@ Dashboard Description:-
 7.Channel which is contributing to maximum sales
 
 8.Highest Selling Category
+
+
+<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/68b3ef07-e4bd-4365-af25-70644c200c10" />
